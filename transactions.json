@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 250.0,
+        "category": "food",
+        "transaction_type": "expense",
+        "date": "2025/05/07 11:19:19"
+    },
+    {
+        "amount": 500.0,
+        "category": "food",
+        "transaction_type": "expense",
+        "date": "2025/05/07 11:20:35"
+    }
+]
